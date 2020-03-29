@@ -40,13 +40,13 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.8.1</version>
+			<version>3.10</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.freemarker</groupId>
 			<artifactId>freemarker</artifactId>
-			<version>2.3.28</version>
+			<version>2.3.30</version>
 		</dependency>
 
 		<dependency>
@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
-			<version>2.12.1</version>
+			<version>2.13.1</version>
 		</dependency>
 
 		<dependency>
@@ -74,82 +74,31 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-api</artifactId>
-			<version>3.0.8</version>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-core</artifactId>
+			<version>2.13.1</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-core</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-jsp</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-servlet</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-autotag-core-runtime</artifactId>
-			<version>1.2</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-el</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-freemarker</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-ognl</artifactId>
-			<version>3.0.8</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-request-api</artifactId>
-			<version>1.0.7</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-request-freemarker</artifactId>
-			<version>1.0.7</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-request-jsp</artifactId>
-			<version>1.0.7</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-request-servlet</artifactId>
-			<version>1.0.7</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tiles</groupId>
-			<artifactId>tiles-template</artifactId>
-			<version>3.0.8</version>
-		</dependency>
+		<!-- <dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-api</artifactId> 
+			<version>3.0.8</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-core</artifactId> <version>3.0.8</version> </dependency> 
+			<dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-jsp</artifactId> 
+			<version>3.0.8</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-servlet</artifactId> <version>3.0.8</version> </dependency> 
+			<dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-autotag-core-runtime</artifactId> 
+			<version>1.2</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-el</artifactId> <version>3.0.8</version> </dependency> 
+			<dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-freemarker</artifactId> 
+			<version>3.0.8</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-ognl</artifactId> <version>3.0.8</version> </dependency> 
+			<dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-request-api</artifactId> 
+			<version>1.0.7</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-request-freemarker</artifactId> <version>1.0.7</version> 
+			</dependency> <dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-request-jsp</artifactId> 
+			<version>1.0.7</version> </dependency> <dependency> <groupId>org.apache.tiles</groupId> 
+			<artifactId>tiles-request-servlet</artifactId> <version>1.0.7</version> </dependency> 
+			<dependency> <groupId>org.apache.tiles</groupId> <artifactId>tiles-template</artifactId> 
+			<version>3.0.8</version> </dependency> -->
 
 	</dependencies>
 
